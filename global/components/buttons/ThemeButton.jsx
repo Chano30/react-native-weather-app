@@ -1,6 +1,6 @@
 import { View, Text, TouchableOpacity } from 'react-native'
 import React, { useContext } from 'react'
-import { ThemeContext } from '../../constant/theme/theme'
+import { ThemeContext } from 'themes/theme'
 import { MaterialIcons } from '@expo/vector-icons';
 
 const ThemeButton = () => {
